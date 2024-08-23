@@ -1,21 +1,14 @@
-# Pogoban
+### My first repository is awesome!
 
-Welcome to Pogoban, Sokoban but more pogger.
-This project started out as a meme among my 
-comp sci mates. But now its becoming a 
-reality.
+I'm f1r3nz4r and here it's my first GitHub repository.
+If you see this file on my project, it's because I'm learning Git.
 
-The game will start out as a humble command
-line program, but will soon grow into a
-fully fledged game.
+My mood:
 
-Feel free to download the code and run it on 
-your computers.
+> happy
 
-Installation details and other miscellanous 
-information will release as soon as 
-version 0, "The backend update" is released.
+My favorite color:
 
-And as always, stay poggers ya pogchamps.
-    
-   
+> red
+
+Thank you so much for reading! ☺
