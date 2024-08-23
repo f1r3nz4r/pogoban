@@ -7,6 +7,8 @@ def main():
     map = pp.Map()
     map.loadMapFromFile("map1")
     print(map)
+    map.loadMapFromFile("map2")
+    print(map)
 
 if __name__ == "__main__":
     main()
